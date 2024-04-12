@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+    margin-left: 20px ;
+    padding-top: 20px;
+}
+form{
+background: #cbb2b2;
+width: 230px;
+height: 350px;
+border-radius: 20px;
+}
+input{
+    border-radius: 20px;
+}
+h1{
+    color:white;
+}
+button{
+    width: 30px;
+    height: 40px;
+}
+submit{
+    bottom: 20px;
+    border-radius: 2px;
+}
